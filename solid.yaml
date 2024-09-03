@@ -1,6 +1,6 @@
 SOLID:
-  block1: Open/Closed Principle
-  block2: Liskov Substitution Principle
-  block3: Interface Segregation Principle
-  block4: Dependency Inversion Principle
-  block5: Liskov Substitution Principle
+  block1: 'Open/Closed Principle'
+  block2: 'Liskov Substitution Principle'
+  block3: 'Interface Segregation Principle'
+  block4: 'Dependency Inversion Principle'
+  block5: 'Liskov Substitution Principle'
